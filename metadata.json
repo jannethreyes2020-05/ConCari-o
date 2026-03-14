@@ -1,0 +1,7 @@
+{
+  "name": "CONCARIÑO",
+  "description": "Landing page para CONCARIÑO, cajas de regalos personalizadas con agente de voz Padme IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
